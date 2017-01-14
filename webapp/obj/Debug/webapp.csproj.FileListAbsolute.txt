@@ -108,3 +108,5 @@ c:\repos\testCD\webapp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 c:\repos\testCD\webapp\obj\Debug\webapp.csprojResolveAssemblyReference.cache
 c:\repos\testCD\webapp\obj\Debug\webapp.dll
 c:\repos\testCD\webapp\obj\Debug\webapp.pdb
+C:\repos\testCD\webapp\bin\nunit.framework.dll
+C:\repos\testCD\webapp\bin\nunit.framework.xml

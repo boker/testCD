@@ -1,0 +1,9 @@
+C:\repos\testCD\tests.webapp\bin\Release\tests.webapp.dll
+C:\repos\testCD\tests.webapp\bin\Release\tests.webapp.pdb
+C:\repos\testCD\tests.webapp\bin\Release\nunit.framework.dll
+C:\repos\testCD\tests.webapp\bin\Release\nunit.framework.xml
+C:\repos\testCD\tests.webapp\obj\Release\tests.webapp.csprojResolveAssemblyReference.cache
+C:\repos\testCD\tests.webapp\obj\Release\tests.webapp.dll
+C:\repos\testCD\tests.webapp\obj\Release\tests.webapp.pdb
+c:\build\tests.webapp.dll
+c:\build\tests.webapp.pdb
