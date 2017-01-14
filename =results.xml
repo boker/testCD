@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.5.0.0" clr-version="4.0.30319.42000" start-time="2017-01-14 03:19:14Z" end-time="2017-01-14 03:19:14Z" duration="0.124249">
+  <command-line><![CDATA[nunit3-console  tests.webapp\bin\debug\tests.webapp.dll --result==results.xml]]></command-line>
+  <test-suite type="Assembly" id="0-1002" name="tests.webapp.dll" fullname="C:\repos\testCD\tests.webapp\bin\debug\tests.webapp.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-01-14 03:19:14Z" end-time="2017-01-14 03:19:14Z" duration="0.052643" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="3.0.5813.39031" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 6.3.9600.0" platform="Win32NT" cwd="C:\repos\testCD" machine-name="BNG000077092013" user="Naresh Sharma" user-domain="ADS" culture="en-GB" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\repos\testCD" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="14712" />
+      <property name="_APPDOMAIN" value="test-domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1003" name="tests" fullname="tests" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-01-14 03:19:14Z" end-time="2017-01-14 03:19:14Z" duration="0.041434" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestSuite" id="0-1004" name="webapp" fullname="tests.webapp" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-01-14 03:19:14Z" end-time="2017-01-14 03:19:14Z" duration="0.041118" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <test-suite type="TestFixture" id="0-1000" name="TestClass" fullname="tests.webapp.TestClass" classname="tests.webapp.TestClass" runstate="Runnable" testcasecount="1" result="Passed" start-time="2017-01-14 03:19:14Z" end-time="2017-01-14 03:19:14Z" duration="0.038478" total="1" passed="1" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <test-case id="0-1001" name="TestMethod" fullname="tests.webapp.TestClass.TestMethod" methodname="TestMethod" classname="tests.webapp.TestClass" runstate="Runnable" seed="798259755" result="Passed" start-time="2017-01-14 03:19:14Z" end-time="2017-01-14 03:19:14Z" duration="0.029310" asserts="0">
+            <reason>
+              <message><![CDATA[Your first passing test]]></message>
+            </reason>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
