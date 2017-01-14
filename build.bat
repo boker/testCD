@@ -1,0 +1,1 @@
+msbuild webapp.sln /T:rebuild /p:DeployOnBuild=true /p:Configuration=Release;Outputpath=%cd%\build;OutDir=%cd%\build

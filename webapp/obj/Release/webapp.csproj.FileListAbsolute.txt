@@ -141,3 +141,10 @@ c:\build\_PublishedWebsites\webapp_Package\webapp.SourceManifest.xml
 c:\build\_PublishedWebsites\webapp_Package\webapp.SetParameters.xml
 c:\build\_PublishedWebsites\webapp_Package\webapp.deploy.cmd
 c:\build\_PublishedWebsites\webapp_Package\webapp.deploy-readme.txt
+C:\repos\testCD\build\webapp.dll.config
+C:\repos\testCD\build\webapp.dll
+C:\repos\testCD\build\webapp.pdb
+C:\repos\testCD\build\_PublishedWebsites\webapp_Package\webapp.SourceManifest.xml
+C:\repos\testCD\build\_PublishedWebsites\webapp_Package\webapp.SetParameters.xml
+C:\repos\testCD\build\_PublishedWebsites\webapp_Package\webapp.deploy.cmd
+C:\repos\testCD\build\_PublishedWebsites\webapp_Package\webapp.deploy-readme.txt

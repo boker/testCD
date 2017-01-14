@@ -7,3 +7,5 @@ C:\repos\testCD\tests.webapp\obj\Release\tests.webapp.dll
 C:\repos\testCD\tests.webapp\obj\Release\tests.webapp.pdb
 c:\build\tests.webapp.dll
 c:\build\tests.webapp.pdb
+C:\repos\testCD\build\tests.webapp.dll
+C:\repos\testCD\build\tests.webapp.pdb
