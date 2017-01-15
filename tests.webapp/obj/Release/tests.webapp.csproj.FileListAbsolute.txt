@@ -9,3 +9,7 @@ c:\build\tests.webapp.dll
 c:\build\tests.webapp.pdb
 C:\repos\testCD\build\tests.webapp.dll
 C:\repos\testCD\build\tests.webapp.pdb
+C:\repos\testCD\tests.webapp\builddir\tests.webapp.dll
+C:\repos\testCD\tests.webapp\builddir\tests.webapp.pdb
+C:\repos\testCD\tests.webapp\builddir\nunit.framework.dll
+C:\repos\testCD\tests.webapp\builddir\nunit.framework.xml
