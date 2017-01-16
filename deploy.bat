@@ -2,4 +2,4 @@ set src=%1
 set dest=%2
 echo %dest%
 
-robocopy %src% %qa_deploy_path% /MIR & rundll32
+robocopy %src% "c:\euro-retail-qa" /MIR & rundll32
