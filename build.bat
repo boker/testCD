@@ -1,1 +1,1 @@
-"%PROGRAMFILES(X86)%\MSBuild\12.0\Bin\MsBuild.exe" webapp.sln /T:rebuild /p:DeployOnBuild=true /p:Configuration=Release;Outputpath=%cd%\build;OutDir=%cd%\build
+"%PROGRAMFILES(X86)%\MSBuild\12.0\Bin\MsBuild.exe" webapp.sln /T:rebuild /p:DeployOnBuild=true /p:Configuration=Release;Outputpath="C:\Program Files (x86)\Go Agent\pipelines\testbuildpipeline\build";OutDir="C:\Program Files (x86)\Go Agent\pipelines\testbuildpipeline\build"

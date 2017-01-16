@@ -13,3 +13,8 @@ C:\repos\testCD\tests.webapp\builddir\tests.webapp.dll
 C:\repos\testCD\tests.webapp\builddir\tests.webapp.pdb
 C:\repos\testCD\tests.webapp\builddir\nunit.framework.dll
 C:\repos\testCD\tests.webapp\builddir\nunit.framework.xml
+C:\testrepo\gittestcd\tests.webapp\obj\Release\tests.webapp.csprojResolveAssemblyReference.cache
+C:\testrepo\gittestcd\tests.webapp\obj\Release\tests.webapp.dll
+C:\testrepo\gittestcd\tests.webapp\obj\Release\tests.webapp.pdb
+C:\Program Files (x86)\Go Agent\pipelines\testbuildpipeline\build\tests.webapp.dll
+C:\Program Files (x86)\Go Agent\pipelines\testbuildpipeline\build\tests.webapp.pdb
